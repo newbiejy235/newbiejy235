@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](桜Sakura Cherry Blossom Pixel.gif)
+![Banner](SakuraCherryBlossomPixel.gif)
 
 </div>
 
