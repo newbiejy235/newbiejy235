@@ -58,7 +58,7 @@ Student · Fullstack Developer · UI/UX Enthusiast · Digital Designer
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MetamorphosisDev&style=flat-square&color=555555&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=newbiejy235&style=flat-square&color=555555&label=profile+views" />
 </div>
 
 
