@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](Readme.png)
+![Banner](Readme.webp)
 
 </div>
 
